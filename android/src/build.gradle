@@ -1,4 +1,0 @@
-
-android {
-    namespace = "com.peoplewareinnovations.bluetooth_thermal_printer"
-}
